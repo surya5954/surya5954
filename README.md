@@ -23,12 +23,13 @@ Here are some ideas to get you started:
 ```javascript
 const surya = {
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Node, Docker],
+  tools: [React, Redux, NodeJS, Docker, Oauth, Azure],
   architecture: ["microservices", "event-driven", "design system pattern"],
+  server: ["Apache", "Nginx", "IBM Webshpere"]
 }
 ```
 
-<em><b>Reading, learning about new technologies was always in my hobby </b>[Blogging](https://suryaprakash-pandey.medium.com/) <b>about them is recently added.</b> :)</em>
+<em><b>Reading, learning about new technologies was always in my hobby, </b>[Blogging](https://suryaprakash-pandey.medium.com/) <b>about them is recently added.</b> :)</em>
 
 ---
 
