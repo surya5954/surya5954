@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h2> Hi, I'm Surya Prakash Pandey!</h2>
-<p><em>Software Enginner at <a href="https://www.bayer.com/en/">Bayer</a> 
+<p><em>Software Enginner at <a target="_blank" href="https://www.bayer.com/en/">Bayer</a> 
 </em></p>
 
 ###  A little more about me...  
