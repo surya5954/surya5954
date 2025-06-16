@@ -14,7 +14,7 @@ I'm a Senior Software Engineer at **Walmart India Development Center** with **10
 - 💬 **Ask me about:** Full-stack development (JavaScript/TypeScript, Node.js, React.js), GraphQL (Apollo Server), Microservices, DevOps (Kubernetes, Docker, CI/CD, AWS), and performance optimization.
 - 📫 **How to reach me:** [suryaprakash.cdac@gmail.com](mailto:suryaprakash.cdac@gmail.com) | [My Medium Blog](https://medium.com/@suryaprakash-pandey) <!-- You can add your LinkedIn profile URL here -->
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I enjoy sharing my knowledge on [Medium](https://medium.com/@suryaprakash-pandey), where my articles have garnered over 20,000 views!
+- ⚡ **Fun fact:** I enjoy sharing my knowledge on [Medium](https://medium.com/@suryaprakash-pandey), where my articles have garnered over 35k views!
 
 ---
 
